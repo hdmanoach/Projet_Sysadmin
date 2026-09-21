@@ -29,6 +29,8 @@ Le projet couvre la segmentation réseau, la sécurisation des flux, l’héberg
         poste-win01 .56.102
 ```
 
+![Topologie du réseau](docs/schema.jpeg)
+
 | Machine | Adresse | Zone | Rôle |
 |---|---:|---|---|
 | OPNsense | `192.168.56.254` / `192.168.57.254` | LAN / DMZ | Pare-feu et passerelles |

@@ -44,6 +44,9 @@
     └──────────┘
 ```
 
+![Topologie du réseau](docs/schema.jpeg)
+
+
 ### Plan d'adressage IP
 
 | Machine | Zone | Adresse IP | Passerelle | Rôle |
